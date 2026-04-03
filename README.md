@@ -4,7 +4,7 @@
 
 ## 🎯 Project Overview
 
-In many organizations, financial data is trapped in messy, inconsistent spreadsheets. This project demonstrates the end-to-end process of taking **unstructured financial records**, cleaning them for accuracy, and building an **interactive Power BI dashboard** that reveals the "story" behind the numbers.
+In many organizations, financial data is trapped in messy, inconsistent spreadsheets. This project demonstrates the end-to-end process of taking **unstructured financial records**, cleaning them for accuracy, and building an **interactive Power BI dashboard** that reveals the story behind the numbers.
 
 **The Goal:** Provide stakeholders with a clear view of profitability, regional performance, and payment trends to drive data-backed growth and decisions.
 
