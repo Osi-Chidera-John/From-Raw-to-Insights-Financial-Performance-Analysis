@@ -75,8 +75,8 @@ The interactive dashboard allows users to slice data by Year, Region, and Catego
 
 ## 📂 Project Files
 
-  * [Cleaned Dataset (Excel)](https://github.com/Osi-Chidera-John/From-Raw-to-Insights-Financial-Performance-Analysis/blob/main/finance_dataset.xlsx)
-  * [Interactive Power BI File (.pbix)](https://github.com/Osi-Chidera-John/From-Raw-to-Insights-Financial-Performance-Analysis/blob/main/financedata_dashboard.pbix)
+  * [Cleaned Dataset)](https://github.com/Osi-Chidera-John/From-Raw-to-Insights-Financial-Performance-Analysis/blob/main/finance_dataset.xlsx)
+  * [Interactive Power BI File](https://github.com/Osi-Chidera-John/From-Raw-to-Insights-Financial-Performance-Analysis/blob/main/financedata_dashboard.pbix)
 -----
 
 ## 👤 Contact 
