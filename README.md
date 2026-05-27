@@ -83,7 +83,7 @@ The interactive dashboard allows users to slice data by Year, Region, and Catego
 
 I am a Data Analyst dedicated to turning messy data into business gold.
 
-  * **LinkedIn:** (https://www.linkedin.com/in/john-chidera-osi-0b6b55319/)
+  * **LinkedIn:** (https://www.linkedin.com/in/john-chidera-jr-0b6b55319/)
   * **Email:** chiderajohn519@gmail.com
 
 
