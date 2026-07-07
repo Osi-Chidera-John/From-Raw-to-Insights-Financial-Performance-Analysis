@@ -353,7 +353,7 @@ The customer base represented in the dataset is relatively small. Expanding cust
 
 # Project Links
 
-🔗 [Project Link]()
+🔗 [Project Link](https://github.com/Osi-Chidera-John/From-Raw-to-Insights-Financial-Performance-Analysis/blob/main/project_files/financedata_dashboard%20(2).pbix)
 
 
 ---
